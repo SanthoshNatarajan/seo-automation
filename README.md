@@ -1,5 +1,8 @@
 # SEO Automation by Santhosh Natarajan
 
+Follow me on LinkedIn for the full 12-episode series:
+[linkedin.com/in/santhoshnatarajan](https://www.linkedin.com/in/santhosh-natarajan-3988b510a/)
+
 Building SEO automation tools with Python — one script at a time.
 
 ---
@@ -19,8 +22,18 @@ GSC shows 1,000 rows. This script pulls everything.
 1. Add your credentials.json to the folder
 2. Open the script and change SITE_URL to your domain
 3. Run: py gsc_pull.py
-
 ---
 
-Follow me on LinkedIn for the full 12-episode series:
-[linkedin.com/in/santhoshnatarajan](https://www.linkedin.com/in/santhosh-natarajan-3988b510a/)
+## Episode 2 — Intent Classification
+
+Classify 50,000+ keywords by user intent automatically.
+
+Categories:
+- 💰 Transactional — ready to enroll
+- 🧲 Commercial — comparing & researching
+- 📚 Informational — learning
+- 🔗 Navigational — looking for specific page
+
+### How to run:
+1. Run Episode 1 first to get gsc_data.xlsx
+2. Run: py intent_classifier.py
